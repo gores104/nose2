@@ -1,4 +1,10 @@
 {
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-11-30 02:08:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-11-30 00:15:44 +0000"
@@ -21,6 +27,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-29 02:50:08 +0000",
       "minecraft:spider": "2024-11-29 02:50:12 +0000",
+      "minecraft:creeper": "2024-11-30 00:39:16 +0000",
+      "minecraft:witch": "2024-11-30 02:34:55 +0000",
       "minecraft:enderman": "2024-11-30 00:18:06 +0000",
       "minecraft:zombie": "2024-11-29 01:40:06 +0000"
     },
@@ -44,6 +52,12 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-30 01:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-11-29 02:43:18 +0000"
@@ -58,6 +72,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-30 01:51:23 +0000",
       "cooked_beef": "2024-11-29 02:23:00 +0000",
       "bread": "2024-11-29 03:14:09 +0000",
       "rotten_flesh": "2024-11-29 01:41:07 +0000"
@@ -80,10 +95,16 @@
       "old_growth_woodland": "2024-11-29 01:37:34 +0000",
       "wooded_scrubland": "2024-11-29 02:16:02 +0000",
       "wooded_wasteland": "2024-11-30 00:34:02 +0000",
+      "orchard": "2024-11-30 01:54:03 +0000",
+      "field": "2024-11-30 02:09:27 +0000",
       "mediterranean_forest": "2024-11-29 03:32:51 +0000",
+      "coniferous_forest": "2024-11-30 01:58:29 +0000",
       "spider_nest": "2024-11-30 00:12:42 +0000",
       "dryland": "2024-11-29 01:52:59 +0000",
-      "wasteland": "2024-11-29 03:30:00 +0000"
+      "wasteland": "2024-11-29 03:30:00 +0000",
+      "redwood_forest": "2024-11-30 01:54:36 +0000",
+      "seasonal_orchard": "2024-11-30 02:15:07 +0000",
+      "pumpkin_patch": "2024-11-30 02:18:24 +0000"
     },
     "done": false
   },
@@ -105,8 +126,15 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-11-30 02:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-30 02:10:43 +0000",
       "minecraft:eroded_badlands": "2024-11-29 02:11:50 +0000",
       "minecraft:wooded_badlands": "2024-11-30 00:33:59 +0000",
       "minecraft:badlands": "2024-11-29 03:03:12 +0000",
@@ -120,6 +148,7 @@
       "minecraft:forest": "2024-11-29 01:23:46 +0000",
       "minecraft:desert": "2024-11-29 01:52:55 +0000",
       "minecraft:deep_dark": "2024-11-30 00:00:03 +0000",
+      "minecraft:meadow": "2024-11-30 02:01:47 +0000",
       "minecraft:savanna": "2024-11-29 02:41:04 +0000",
       "minecraft:plains": "2024-11-29 01:37:20 +0000"
     },
@@ -155,6 +184,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-30 00:38:18 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2024-11-29 02:42:35 +0000"
@@ -164,6 +199,12 @@
   "vampirism:main/root": {
     "criteria": {
       "second": "2024-11-30 00:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 02:18:51 +0000"
     },
     "done": true
   },

@@ -29,6 +29,7 @@
       "minecraft:spider": "2024-11-29 02:50:12 +0000",
       "minecraft:creeper": "2024-11-30 00:39:16 +0000",
       "minecraft:witch": "2024-11-30 02:34:55 +0000",
+      "minecraft:cave_spider": "2024-11-30 04:14:07 +0000",
       "minecraft:enderman": "2024-11-30 00:18:06 +0000",
       "minecraft:zombie": "2024-11-29 01:40:06 +0000"
     },
@@ -157,6 +158,7 @@
       "minecraft:cold_ocean": "2024-11-30 03:50:03 +0000",
       "minecraft:forest": "2024-11-29 01:23:46 +0000",
       "minecraft:desert": "2024-11-29 01:52:55 +0000",
+      "minecraft:ocean": "2024-11-30 04:13:02 +0000",
       "minecraft:flower_forest": "2024-11-30 03:54:18 +0000",
       "minecraft:deep_dark": "2024-11-30 00:00:03 +0000",
       "minecraft:meadow": "2024-11-30 02:01:47 +0000",
@@ -243,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-30 04:20:35 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-11-29 02:53:33 +0000"
@@ -264,6 +272,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-11-29 02:40:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-11-30 04:22:36 +0000"
     },
     "done": true
   },

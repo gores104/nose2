@@ -1022,3 +1022,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 04:08:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Survival Mode]
 [30Nov2024 04:09:22.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b5c4cc4
 [30Nov2024 04:11:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Teleported Lcpriko to wtbro1233]
+[30Nov2024 04:14:47.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 was slain by Looter
+[30Nov2024 04:15:13.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['wtbro1233'/29959, l='ServerLevel[world]', x=2856.64, y=-26.00, z=-1459.97] died: entity.hordes.ZombiePlayer.chat was slain by Lcpriko
+[30Nov2024 04:15:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 04:15:32.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25120, l='ServerLevel[world]', x=2861.48, y=73.00, z=-1451.51] died, message: 'Villager was slain by Ghost'
+[30Nov2024 04:16:35.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/25048, l='ServerLevel[world]', x=2876.48, y=72.18, z=-1479.80] died, message: 'Priest died because of Ghost'
+[30Nov2024 04:20:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Sneak 100]
+[30Nov2024 04:20:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 04:20:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 has made the advancement [Sneak 100]
+[30Nov2024 04:22:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Spectator Mode]
+[30Nov2024 04:22:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Set own game mode to Spectator Mode]
+[30Nov2024 04:22:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Set own game mode to Survival Mode]
+[30Nov2024 04:22:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Teleported Lcpriko to 1222.500000, 70.500000, -1187.500000]
+[30Nov2024 04:22:22.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[30Nov2024 04:22:29.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Survival Mode]
+[30Nov2024 04:22:36.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 has made the advancement [Chest Slayer]
+[30Nov2024 04:23:03.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 04:23:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 was slain by Lcpriko
+[30Nov2024 04:23:26.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['wtbro1233'/33207, l='ServerLevel[world]', x=1221.57, y=66.00, z=-1190.00] died: entity.hordes.ZombiePlayer.chat was slain by Lcpriko
+[30Nov2024 04:23:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.infection.zombified
+[30Nov2024 04:24:02.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcpriko lost connection: Disconnected
+[30Nov2024 04:24:02.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko left the game
+[30Nov2024 04:24:04.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Lcpriko'/33344, l='ServerLevel[world]', x=1218.51, y=66.00, z=-1185.56] died: entity.hordes.ZombiePlayer.chat was slain by wtbro1233
+[30Nov2024 04:25:25.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wtbro1233 lost connection: Disconnected
+[30Nov2024 04:25:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 left the game
+[30Nov2024 04:25:28.178] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Nov2024 04:25:28.285] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Nov2024 04:25:28.298] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Nov2024 04:25:28.397] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Nov2024 04:25:28.403] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Nov2024 04:25:28.503] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Nov2024 04:25:28.504] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Nov2024 04:25:28.611] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Nov2024 04:25:28.612] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Nov2024 04:25:28.612] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Nov2024 04:25:28.713] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Nov2024 04:25:28.748] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Nov2024 04:25:29.833] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Nov2024 04:25:29.837] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Nov2024 04:25:29.843] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Nov2024 04:25:30.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@200473f3[id=<null>,name=Lcpriko,properties={},legacy=false] (/127.241.150.47:50935) lost connection: Disconnected

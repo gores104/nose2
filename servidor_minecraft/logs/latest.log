@@ -939,3 +939,86 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 03:52:31.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 was doomed to fall by Fire Dragon
 [30Nov2024 03:52:46.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['wtbro1233'/20362, l='ServerLevel[world]', x=2554.03, y=79.00, z=-1528.12] died: entity.hordes.ZombiePlayer.chat was slain by Lcpriko
 [30Nov2024 03:52:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 03:56:12.687] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 03:56:12.688] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 03:57:02.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko was killed by Potion using magic
+[30Nov2024 03:57:22.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Teleported Lcpriko to 2562.500000, 159.500000, -1520.500000]
+[30Nov2024 03:59:01.320] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[30Nov2024 03:59:01.415] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[30Nov2024 03:59:01.484] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Nov2024 03:59:01.484] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Nov2024 03:59:01.485] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[30Nov2024 03:59:01.485] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Nov2024 03:59:07.453] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[30Nov2024 03:59:07.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[30Nov2024 03:59:07.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[30Nov2024 03:59:07.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[30Nov2024 03:59:07.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[30Nov2024 03:59:07.457] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[30Nov2024 03:59:26.622] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f7d0056]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[30Nov2024 03:59:26.625] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@aa8a224
+[30Nov2024 03:59:26.630] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Nov2024 03:59:26.630] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Nov2024 03:59:26.688] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 03:59:26.688] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 03:59:49.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[30Nov2024 03:59:54.610] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[30Nov2024 04:00:01.476] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Nov2024 04:00:03.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[30Nov2024 04:00:03.295] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[30Nov2024 04:00:03.453] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Nov2024 04:00:03.454] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Nov2024 04:00:06.146] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[30Nov2024 04:00:06.146] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[30Nov2024 04:00:06.146] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[30Nov2024 04:00:06.147] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[30Nov2024 04:00:06.147] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[30Nov2024 04:00:06.147] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[30Nov2024 04:00:06.147] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[30Nov2024 04:00:06.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[30Nov2024 04:00:06.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[30Nov2024 04:00:06.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[30Nov2024 04:00:06.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[30Nov2024 04:00:06.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[30Nov2024 04:00:06.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[30Nov2024 04:00:06.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[30Nov2024 04:00:06.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[30Nov2024 04:00:06.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[30Nov2024 04:00:06.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[30Nov2024 04:00:06.352] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[30Nov2024 04:00:06.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[30Nov2024 04:00:12.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[30Nov2024 04:00:12.849] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[30Nov2024 04:00:16.133] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[30Nov2024 04:00:16.134] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[30Nov2024 04:00:16.134] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[30Nov2024 04:00:16.134] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[30Nov2024 04:00:16.135] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[30Nov2024 04:00:16.135] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[30Nov2024 04:00:16.712] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:00:16.715] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:00:39.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Teleported Lcpriko to wtbro1233]
+[30Nov2024 04:01:06.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:01:06.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:01:07.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24897, l='ServerLevel[world]', x=2932.93, y=72.04, z=-1527.79] died, message: 'Farmer was slain by Crocodile'
+[30Nov2024 04:01:55.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24895, l='ServerLevel[world]', x=2943.14, y=74.14, z=-1528.47] died, message: 'Villager was slain by Crocodile'
+[30Nov2024 04:01:56.674] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:01:56.676] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:02:10.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24899, l='ServerLevel[world]', x=2949.93, y=74.04, z=-1529.65] died, message: 'Villager was slain by Crocodile'
+[30Nov2024 04:02:46.683] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f7d0056]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f7d0056 ignoring light level
+[30Nov2024 04:02:46.684] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:02:46.684] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:03:36.676] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f7d0056]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f7d0056 ignoring light level
+[30Nov2024 04:03:36.677] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:03:36.677] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 04:04:10.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Chompy]
+[30Nov2024 04:04:11.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24390, l='ServerLevel[world]', x=2932.50, y=65.00, z=-1564.32] died, message: 'Villager died because of Zombie'
+[30Nov2024 04:04:16.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24391, l='ServerLevel[world]', x=2923.16, y=63.00, z=-1557.69] died, message: 'Villager was slain by Zombie'
+[30Nov2024 04:05:09.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Sigrismarr the Magnificent'/26489, l='ServerLevel[world]', x=2944.50, y=73.00, z=-1531.98] died: Sigrismarr the Magnificent was slain by Iron Golem
+[30Nov2024 04:05:19.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/24898, l='ServerLevel[world]', x=2949.30, y=67.00, z=-1502.70] died, message: 'Priest was slain by Zombie'
+[30Nov2024 04:05:21.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24911, l='ServerLevel[world]', x=2958.34, y=79.00, z=-1536.27] died, message: 'Weaponsmith was slain by Zombie'
+[30Nov2024 04:05:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported Lcpriko to wtbro1233]
+[30Nov2024 04:08:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Spectator Mode]
+[30Nov2024 04:08:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Survival Mode]
+[30Nov2024 04:09:22.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b5c4cc4
+[30Nov2024 04:11:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Teleported Lcpriko to wtbro1233]

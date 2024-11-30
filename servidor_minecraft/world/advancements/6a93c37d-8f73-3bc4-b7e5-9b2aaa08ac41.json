@@ -58,6 +58,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-11-30 03:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-11-29 02:43:18 +0000"
@@ -106,6 +112,7 @@
       "wasteland": "2024-11-29 03:30:00 +0000",
       "redwood_forest": "2024-11-30 01:54:36 +0000",
       "seasonal_orchard": "2024-11-30 02:15:07 +0000",
+      "dune_beach": "2024-11-30 03:58:58 +0000",
       "pumpkin_patch": "2024-11-30 02:18:24 +0000"
     },
     "done": false
@@ -147,8 +154,10 @@
       "minecraft:river": "2024-11-29 02:29:57 +0000",
       "minecraft:stony_shore": "2024-11-29 02:21:15 +0000",
       "minecraft:dripstone_caves": "2024-11-29 02:41:17 +0000",
+      "minecraft:cold_ocean": "2024-11-30 03:50:03 +0000",
       "minecraft:forest": "2024-11-29 01:23:46 +0000",
       "minecraft:desert": "2024-11-29 01:52:55 +0000",
+      "minecraft:flower_forest": "2024-11-30 03:54:18 +0000",
       "minecraft:deep_dark": "2024-11-30 00:00:03 +0000",
       "minecraft:meadow": "2024-11-30 02:01:47 +0000",
       "minecraft:savanna": "2024-11-29 02:41:04 +0000",

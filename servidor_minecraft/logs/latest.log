@@ -857,3 +857,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 03:12:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Survival Mode]
 [30Nov2024 03:16:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Take Aim]
 [30Nov2024 03:21:37.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gruthkul the Dangereous'/5035, l='ServerLevel[world]', x=1124.29, y=-2.00, z=-1289.71] died: Gruthkul the Dangereous was slain by Lcpriko
+[30Nov2024 03:25:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko drowned
+[30Nov2024 03:27:01.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Who You Gonna Call?]
+[30Nov2024 03:33:06.994] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
+[30Nov2024 03:33:06.996] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
+[30Nov2024 03:33:09.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=27, z=-1243}
+[30Nov2024 03:33:10.767] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[30Nov2024 03:33:11.106] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=29, z=-1205}
+[30Nov2024 03:33:11.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=26, z=-1243}
+[30Nov2024 03:33:11.169] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=27, z=-1245}
+[30Nov2024 03:33:16.599] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Nov2024 03:33:17.136] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
+[30Nov2024 03:33:17.690] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[30Nov2024 03:33:17.691] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[30Nov2024 03:33:17.691] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[30Nov2024 03:33:17.691] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[30Nov2024 03:33:18.090] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Nov2024 03:33:18.530] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
+[30Nov2024 03:33:20.575] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Nov2024 03:33:20.860] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Nov2024 03:33:20.878] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
+[30Nov2024 03:33:22.672] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[30Nov2024 03:33:24.893] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[30Nov2024 03:33:24.969] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[30Nov2024 03:33:24.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[30Nov2024 03:33:24.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[30Nov2024 03:33:24.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[30Nov2024 03:33:27.145] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[30Nov2024 03:33:27.410] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[30Nov2024 03:33:27.411] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[30Nov2024 03:33:27.412] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[30Nov2024 03:33:27.412] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[30Nov2024 03:33:27.453] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[30Nov2024 03:33:27.460] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[30Nov2024 03:33:27.477] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[30Nov2024 03:33:29.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[30Nov2024 03:33:30.142] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Nov2024 03:33:30.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
+[30Nov2024 03:33:30.929] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[30Nov2024 03:33:30.930] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[30Nov2024 03:33:37.126] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[30Nov2024 03:33:37.127] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[30Nov2024 03:33:37.171] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[30Nov2024 03:33:37.173] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[30Nov2024 03:33:37.331] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[30Nov2024 03:33:37.427] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[30Nov2024 03:33:37.431] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[30Nov2024 03:33:41.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[30Nov2024 03:33:42.186] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[30Nov2024 03:33:42.186] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[30Nov2024 03:33:50.382] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[30Nov2024 03:35:55.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Ice Bucket Challenge]
+[30Nov2024 03:37:28.871] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 03:37:28.872] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 03:37:30.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[30Nov2024 03:45:25.897] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Nov2024 03:45:25.939] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Nov2024 03:45:25.967] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Nov2024 03:45:25.968] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Nov2024 03:45:26.052] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Nov2024 03:45:26.057] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Nov2024 03:45:26.165] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Nov2024 03:45:26.166] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Nov2024 03:45:26.272] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Nov2024 03:45:26.277] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Nov2024 03:45:26.378] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Nov2024 03:45:26.419] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Nov2024 03:45:29.355] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Nov2024 03:45:29.365] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Nov2024 03:45:29.407] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Nov2024 03:45:35.430] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@442670c9
+[30Nov2024 03:45:35.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wtbro1233[/127.213.173.18:43309] logged in with entity id 15161 at (382.69999998807907, -20.0, -2980.06260732838)
+[30Nov2024 03:45:35.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 joined the game
+[30Nov2024 03:45:35.487] [Server thread/INFO] [Jade/]: Syncing config to wtbro1233 (6a93c37d-8f73-3bc4-b7e5-9b2aaa08ac41)
+[30Nov2024 03:46:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Set own game mode to Spectator Mode]
+[30Nov2024 03:46:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 03:46:35.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Set own game mode to Survival Mode]
+[30Nov2024 03:49:16.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 03:50:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 03:52:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]
+[30Nov2024 03:52:31.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wtbro1233 was doomed to fall by Fire Dragon
+[30Nov2024 03:52:46.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['wtbro1233'/20362, l='ServerLevel[world]', x=2554.03, y=79.00, z=-1528.12] died: entity.hordes.ZombiePlayer.chat was slain by Lcpriko
+[30Nov2024 03:52:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wtbro1233: Teleported wtbro1233 to Lcpriko]

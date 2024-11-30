@@ -1,4 +1,10 @@
 {
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 03:27:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-11-30 00:24:49 +0000"
@@ -84,12 +90,18 @@
     "criteria": {
       "woodland": "2024-11-29 01:40:56 +0000",
       "scrubland": "2024-11-29 01:38:44 +0000",
+      "highland": "2024-11-30 03:33:16 +0000",
       "old_growth_woodland": "2024-11-29 01:36:57 +0000",
       "wooded_scrubland": "2024-11-29 01:38:26 +0000",
+      "maple_woods": "2024-11-30 03:33:58 +0000",
+      "field": "2024-11-30 03:35:04 +0000",
       "lavender_forest": "2024-11-30 00:27:15 +0000",
       "mediterranean_forest": "2024-11-29 03:38:19 +0000",
       "dryland": "2024-11-29 01:38:12 +0000",
       "wasteland": "2024-11-29 03:35:31 +0000",
+      "cherry_blossom_grove": "2024-11-30 03:33:39 +0000",
+      "lavender_field": "2024-11-30 03:32:32 +0000",
+      "glowing_grotto": "2024-11-30 03:48:23 +0000",
       "rainforest": "2024-11-29 01:33:27 +0000"
     },
     "done": false
@@ -114,6 +126,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-30 03:49:42 +0000",
       "minecraft:eroded_badlands": "2024-11-29 01:43:37 +0000",
       "minecraft:badlands": "2024-11-29 01:37:30 +0000",
       "minecraft:savanna_plateau": "2024-11-30 00:17:11 +0000",
@@ -124,6 +137,7 @@
       "minecraft:forest": "2024-11-29 01:12:48 +0000",
       "minecraft:desert": "2024-11-29 03:00:36 +0000",
       "minecraft:jungle": "2024-11-29 01:31:46 +0000",
+      "minecraft:meadow": "2024-11-30 03:27:16 +0000",
       "minecraft:savanna": "2024-11-29 02:43:29 +0000",
       "minecraft:plains": "2024-11-29 01:36:37 +0000"
     },
@@ -231,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-30 03:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-11-30 00:38:35 +0000"
@@ -240,6 +260,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-11-30 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-11-30 03:34:15 +0000"
     },
     "done": true
   },

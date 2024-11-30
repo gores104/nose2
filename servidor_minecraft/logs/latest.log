@@ -855,3 +855,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 03:05:39.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5944ms or 118 ticks behind
 [30Nov2024 03:11:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Creative Mode]
 [30Nov2024 03:12:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcpriko: Set own game mode to Survival Mode]
+[30Nov2024 03:16:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcpriko has made the advancement [Take Aim]
+[30Nov2024 03:21:37.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gruthkul the Dangereous'/5035, l='ServerLevel[world]', x=1124.29, y=-2.00, z=-1289.71] died: Gruthkul the Dangereous was slain by Lcpriko

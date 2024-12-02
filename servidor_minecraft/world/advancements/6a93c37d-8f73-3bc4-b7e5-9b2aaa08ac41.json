@@ -105,6 +105,7 @@
       "wooded_wasteland": "2024-11-30 00:34:02 +0000",
       "orchard": "2024-11-30 01:54:03 +0000",
       "field": "2024-11-30 02:09:27 +0000",
+      "lavender_forest": "2024-12-02 01:24:43 +0000",
       "mediterranean_forest": "2024-11-29 03:32:51 +0000",
       "coniferous_forest": "2024-11-30 01:58:29 +0000",
       "spider_nest": "2024-11-30 00:12:42 +0000",
@@ -114,6 +115,8 @@
       "redwood_forest": "2024-11-30 01:54:36 +0000",
       "seasonal_orchard": "2024-11-30 02:15:07 +0000",
       "dune_beach": "2024-11-30 03:58:58 +0000",
+      "seasonal_forest": "2024-12-02 01:27:22 +0000",
+      "fir_clearing": "2024-12-02 01:33:27 +0000",
       "pumpkin_patch": "2024-11-30 02:18:24 +0000"
     },
     "done": false
@@ -146,6 +149,7 @@
     "criteria": {
       "minecraft:taiga": "2024-11-30 02:10:43 +0000",
       "minecraft:eroded_badlands": "2024-11-29 02:11:50 +0000",
+      "minecraft:sunflower_plains": "2024-12-02 01:34:00 +0000",
       "minecraft:wooded_badlands": "2024-11-30 00:33:59 +0000",
       "minecraft:badlands": "2024-11-29 03:03:12 +0000",
       "minecraft:savanna_plateau": "2024-11-29 02:17:03 +0000",
@@ -157,6 +161,7 @@
       "minecraft:dripstone_caves": "2024-11-29 02:41:17 +0000",
       "minecraft:cold_ocean": "2024-11-30 03:50:03 +0000",
       "minecraft:forest": "2024-11-29 01:23:46 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-02 01:32:22 +0000",
       "minecraft:desert": "2024-11-29 01:52:55 +0000",
       "minecraft:ocean": "2024-11-30 04:13:02 +0000",
       "minecraft:flower_forest": "2024-11-30 03:54:18 +0000",

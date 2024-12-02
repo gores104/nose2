@@ -118,7 +118,9 @@
       "wasteland": "2024-11-29 03:35:31 +0000",
       "cherry_blossom_grove": "2024-11-30 03:33:39 +0000",
       "dune_beach": "2024-11-30 03:58:49 +0000",
+      "seasonal_forest": "2024-12-02 01:27:32 +0000",
       "lavender_field": "2024-11-30 03:32:32 +0000",
+      "fir_clearing": "2024-12-02 01:33:27 +0000",
       "pumpkin_patch": "2024-11-30 03:50:48 +0000",
       "glowing_grotto": "2024-11-30 03:48:23 +0000",
       "rainforest": "2024-11-29 01:33:27 +0000"
@@ -147,6 +149,7 @@
     "criteria": {
       "minecraft:taiga": "2024-11-30 03:49:42 +0000",
       "minecraft:eroded_badlands": "2024-11-29 01:43:37 +0000",
+      "minecraft:sunflower_plains": "2024-12-02 01:33:55 +0000",
       "minecraft:badlands": "2024-11-29 01:37:30 +0000",
       "minecraft:savanna_plateau": "2024-11-30 00:17:11 +0000",
       "minecraft:beach": "2024-11-30 03:58:45 +0000",
@@ -154,7 +157,9 @@
       "minecraft:sparse_jungle": "2024-11-29 01:34:26 +0000",
       "minecraft:river": "2024-11-29 02:50:21 +0000",
       "minecraft:stony_shore": "2024-11-29 02:48:09 +0000",
+      "minecraft:cold_ocean": "2024-12-02 01:32:10 +0000",
       "minecraft:forest": "2024-11-29 01:12:48 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-02 01:32:23 +0000",
       "minecraft:desert": "2024-11-29 03:00:36 +0000",
       "minecraft:jungle": "2024-11-29 01:31:46 +0000",
       "minecraft:ocean": "2024-11-30 04:13:01 +0000",
@@ -205,6 +210,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2024-11-29 02:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-02 01:22:38 +0000"
     },
     "done": true
   },
